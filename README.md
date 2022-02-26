@@ -5,7 +5,7 @@ UQ Zone 自动登录脚本 \
 //创建脚本文件
 vim ~/test1.sh
 ```
-复制文件内容至test1.sh 并保存退出
+复制uq_zone_login.sh文件内容至test1.sh 并保存退出
 ```
 //给执行权限
 chmod 777 ~/test1.sh
