@@ -1,5 +1,5 @@
 #!/usr/bin/expect
-spawn ssh s4547392@moss.labs.eait.uq.edu.au
+spawn ssh s1234567@moss.labs.eait.uq.edu.au
 expect "*Password*"
-send "Ls990905\r"
+send "enterYourPwd\r"
 interact
