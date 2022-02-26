@@ -1,5 +1,5 @@
 # UQ-TEST
-UQ Zone 自动登录脚本 \
+UQ moss 自动登录脚本 \
 打开Terminal
 ```
 //创建脚本文件
