@@ -15,3 +15,18 @@ chmod 777 ~/test1.sh
 cd ~
 ./test1.sh
 ```
+使用bash的修改bashrc使用zsh的修改zshrc
+```
+cd ~
+vim .bashrc
+//或者
+vim .zshrc
+```
+添加alias操作
+```
+alias alias_name="~/./test1.sh"
+```
+直接输入你的alias_name就可以免密登陆啦
+```
+alias_name
+```
