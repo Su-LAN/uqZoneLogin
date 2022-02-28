@@ -8,7 +8,7 @@ vim ~/test1.sh
 复制uq_zone_login.sh文件内容至test1.sh 并保存退出
 ```
 //给执行权限
-chmod 777 ~/test1.sh
+chmod +x ~/test1.sh
 ```
 在默认目录下执行即可登录
 ```
